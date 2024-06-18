@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gian 👋
 
 - 🌱 Estudante de Engenharia de Software (UNIPAMPA)
-- 💻 Desenvolvedor focado em criar soluções eficientes e inovadoras usando tecnologias modernas. Trabalho com desenvolvimento front-end e back-end, e estou sempre em busca de novos desafios e aprendizados.
+- 💻 Desenvolvedor focado em criar soluções eficientes e inovadoras usando tecnologias modernas. Trabalhando com desenvolvimento front-end e back-end, e estou sempre em busca de novos desafios e aprendizados.
 
 ### Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
